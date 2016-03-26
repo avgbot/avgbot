@@ -248,8 +248,8 @@ function create_config( )
 	    sudo_users = {92307266,196314022},--Sudo users
     disabled_channels = {},
     moderation = {data = 'data/moderation.json'},
-    about_text = [[
-https://github.com/BH-YAGHI/NOD32-BOT.git
+    about_text = [[avgbot bot 2.3
+https://github.com/avgbot/avgbot.git
 
 channel : @avgbot
 sodu : @amir&reza
